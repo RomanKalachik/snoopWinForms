@@ -1,0 +1,21 @@
+Build/
+Intermediate/
+bin/
+obj/
+Debug/
+Release/
+packages/
+paket-files/
+*.vs
+*.user
+*.opensdf
+*.sdf
+*.suo
+*.pdb
+*.dll
+*.ncb
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
